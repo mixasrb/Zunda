@@ -1,0 +1,7 @@
+// Timer errors
+// LCDC Interrupt is broken 
+// Problem with MBC1
+// Comenting opcode 0xFF RST 38 fixes something :p
+// boot frames 331 , boot cycles 5mil 1544125 with cpu 4 times
+// Donkey Kong after finishing level, results window isn't drawn! 
+or it is but at the time of drawing vram is empty?
